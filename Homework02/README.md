@@ -1,0 +1,1 @@
+[![build status of master](https://travis-ci.org/0Trickster0/SSW567WS/Homework02.svg?branch=master)](https://travis-ci.org/0Trickster0/SSW567WS/Homework02)
